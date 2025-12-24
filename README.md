@@ -104,7 +104,7 @@ The project includes SQL queries to answer real-world business questions such as
 ---
 
 ## 👤 Author
-**Prudhvi Kakunuri**  
+**KANDELA VAMSHI**  
 - 🔗 GitHub: 
 - 🔗 LinkedIn: 
 
