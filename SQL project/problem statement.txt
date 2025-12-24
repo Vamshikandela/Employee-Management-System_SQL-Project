@@ -1,5 +1,0 @@
-ABC Technologies Pvt. Ltd. has been managing employee details using Excel files and manual records. 
-As the company grows, this approach leads to confusion, data errors, and delays in salary processing.
- Managers find it difficult to track employee attendance, roles, and performance in one place. 
-Generating reports for decision-making becomes time-consuming.
- To solve this, the company needs an SQL-based Employee Management System to manage employee data efficiently.
