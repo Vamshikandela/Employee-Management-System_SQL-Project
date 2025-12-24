@@ -105,8 +105,8 @@ The project includes SQL queries to answer real-world business questions such as
 
 ## 👤 Author
 **KANDELA VAMSHI**  
-- 🔗 GitHub: 
-- 🔗 LinkedIn: 
+- 🔗 GitHub:https://github.com/Vamshikandela/Employee-Management-System_SQL-Project/tree/main
+- 🔗 LinkedIn:https://www.linkedin.com/in/kandela-vamshi-2b4457258
 
 ---
 
