@@ -1,11 +1,3 @@
-# 📊 Employee Management System (SQL Project)
-
-## 📌 Project Overview
-The **Employee Management System (EMS)** is an SQL-based relational database project designed to efficiently manage and analyze employee-related information within an organization.  
-It centralizes employee data such as job roles, departments, salaries, qualifications, leave records, and payroll, replacing manual and spreadsheet-based systems with a structured database approach.
-Expand
-message.txt
-5 KB
 ﻿
 # 📊 Employee Management System (SQL Project)
 
